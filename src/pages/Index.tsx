@@ -95,7 +95,7 @@ export default function Index() {
                 </Button>
               </Link>
               <Link to="/dashboard">
-                <Button size="lg" variant="outline" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 text-lg">
+                <Button size="lg" variant="outline" className="border-secondary bg-secondary/20 text-secondary hover:bg-secondary/30 text-lg font-semibold">
                   View Dashboard
                 </Button>
               </Link>
