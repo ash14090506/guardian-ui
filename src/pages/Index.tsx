@@ -221,7 +221,7 @@ export default function Index() {
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </Button>
               </Link>
-              <Button size="lg" variant="outline" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 text-lg">
+              <Button size="lg" variant="outline" className="border-secondary bg-secondary/20 text-secondary hover:bg-secondary/30 text-lg font-semibold">
                 Contact Sales
               </Button>
             </div>
